@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tim</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string name="s">Start</string>
+        <string name="f">Finish</string>
+        <string name="st">Stop</string>
+
+    </resources>
+
